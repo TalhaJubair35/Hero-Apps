@@ -1,11 +1,11 @@
 import React from "react";
 import Hero from "../assets/hero.png";
-import { useLoaderData } from "react-router";
+import { Link, useLoaderData } from "react-router";
 import AppCard from "./AppCard";
 
 const Home = () => {
   const apps = useLoaderData();
-  console.log(apps);
+  const featuredApps = apps.slice(0, 8);
 
   return (
     <>
@@ -72,10 +72,24 @@ const Home = () => {
         </div>
       </section>
       <div>
-        <div className="w-11/12 mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 my-10 gap-5">
-          {apps.map((app) => (
-            <AppCard app={app}></AppCard>
+        <div className="mt-5 flex flex-col gap-5">
+          <h2 className="text-4xl font-bold text-center text-[#392f5a] flex justify-center gap-3">
+            Trending Apps
+          </h2>
+          <p className="text-center text-gray-500">
+            Explore All Trending Apps on the Market developed by us
+          </p>
+        </div>
+
+        <div className="w-10/12 mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 my-10 gap-5 ">
+          {featuredApps.map((app) => (
+            <AppCard key={app.id} app={app}></AppCard>
           ))}
+        </div>
+        <div className="flex justify-center mb-10">
+          <Link to="/apps" className="btn w-fit">
+            Show All
+          </Link>
         </div>
       </div>
     </>

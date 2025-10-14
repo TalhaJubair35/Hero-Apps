@@ -1,23 +1,38 @@
-import React from 'react';
+import React from "react";
+import rating from "../assets/icon-ratings.png";
+import download from "../assets/icon-downloads.png";
+import { Link } from "react-router";
 
-const AppCard = ({app}) => {
-    return (
-        <div className="card bg-base-100 w-96 shadow-sm">
-  <figure className="px-10 pt-10">
-    <img
-      src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-      alt="Shoes"
-      className="rounded-xl" />
-  </figure>
-  <div className="card-body items-center text-center">
-    <h2 className="card-title">Card Title</h2>
-    <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
-    <div className="card-actions">
-      <button className="btn btn-primary">Buy Now</button>
-    </div>
-  </div>
-</div>
-    );
+const AppCard = ({ app }) => {
+  return (
+  <>
+    <Link to='/appdetails' className="card bg-base-100  shadow-sm hover:bg-base-200 hover:-translate-y-2 transition-all duration-200 cursor-pointer">
+      <figure className="px-5 pt-5">
+        <img
+          src={app.image}
+          alt="Shoes"
+          className="rounded-xl"
+        />
+      </figure>
+      <div className="card-body items-center text-center">
+        <h2 className="card-title">{app.companyName}</h2>
+
+        <div className="card-actions flex-1">
+          <div className="flex gap-1 bg-gray-300 rounded-xl p-2">
+            <img className="w-3.5" src={download} alt="" />
+            <p>{app.downloads}</p>
+          </div>
+          <div className="flex gap-1 bg-gray-300 rounded-xl p-2">
+            <img className="w-3.5" src={rating} alt="" />
+            <p>{app.ratingAvg}</p>
+          </div>
+        </div>
+      </div>
+      
+    </Link>
+    
+    </>
+  );
 };
 
 export default AppCard;

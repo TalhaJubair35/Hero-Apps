@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://i.ibb.co.com/7QjHgjH/app1.webp",
+    "image": "https://i.ibb.co.com/93kDKgqy/demo-app-1.webp",
     "title": "TaskFlow",
     "companyName": "FlowTech Labs",
     "description": "Organize your daily work, track goals, and boost productivity with AI-powered task management.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "https://i.ibb.co.com/GtH0R2R/app2.webp",
+    "image": "https://i.ibb.co.com/mrjsRpDk/demo-app-2.webp",
     "title": "FitTrack",
     "companyName": "ActivePulse",
     "description": "Monitor workouts, calories, and heart rate seamlessly with real-time analytics.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://i.ibb.co.com/mvtpZgz/app3.webp",
+    "image": "https://i.ibb.co.com/gZpgLcQ7/demo-app-3.webp",
     "title": "NoteNest",
     "companyName": "Clarity Works",
     "description": "A minimal note-taking app that syncs across all your devices instantly.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "https://i.ibb.co.com/6vVb5yV/app4.webp",
+    "image": "https://i.ibb.co.com/cKM1gcfS/demo-app-4.webp",
     "title": "ShopSmart",
     "companyName": "RetailEdge",
     "description": "Compare prices, track deals, and get cashback offers from your favorite stores.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "https://i.ibb.co.com/6r9sVkp/app5.webp",
+    "image": "https://i.ibb.co.com/qLH7YTc3/demo-app-5.webp",
     "title": "PhotoTune",
     "companyName": "PixelForge",
     "description": "Enhance and edit your photos with AI filters and one-tap retouching tools.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "https://i.ibb.co.com/fYNzHbb/app6.webp",
+    "image": "https://i.ibb.co.com/wNNNVHFd/demo-app-6.webp",
     "title": "EduMate",
     "companyName": "Brainwave Learning",
     "description": "Interactive courses, quizzes, and progress tracking for students of all levels.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "https://i.ibb.co.com/sCQcrL6/app7.webp",
+    "image": "https://i.ibb.co.com/93kDKgqy/demo-app-1.webp",
     "title": "SoundSphere",
     "companyName": "EchoWave Studios",
     "description": "Stream and discover millions of songs, podcasts, and live radio in one place.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "https://i.ibb.co.com/P5pQfTj/app8.webp",
+    "image": "https://i.ibb.co.com/mrjsRpDk/demo-app-2.webp",
     "title": "TripMate",
     "companyName": "Voyager Apps",
     "description": "Plan trips, book hotels, and explore new destinations with AI travel guides.",
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "image": "https://i.ibb.co.com/dfm6Lj6/app9.webp",
+    "image": "https://i.ibb.co.com/gZpgLcQ7/demo-app-3.webp",
     "title": "ChatBuddy",
     "companyName": "SocialHive",
     "description": "Stay connected with friends through chats, stories, and real-time calls.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "image": "https://i.ibb.co.com/Zcr9GHM/app10.webp",
+    "image": "https://i.ibb.co.com/cKM1gcfS/demo-app-4.webp",
     "title": "MindEase",
     "companyName": "CalmSpace Studio",
     "description": "Relax with guided meditations, breathing exercises, and sleep stories.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "image": "https://i.ibb.co.com/f0g3M5v/app11.webp",
+    "image": "https://i.ibb.co.com/qLH7YTc3/demo-app-5.webp",
     "title": "FinTrack",
     "companyName": "MoneyMind Labs",
     "description": "Manage expenses, track budgets, and visualize spending patterns easily.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "image": "https://i.ibb.co.com/X5nxR4S/app12.webp",
+    "image": "https://i.ibb.co.com/wNNNVHFd/demo-app-6.webp",
     "title": "Weatherly",
     "companyName": "SkyCast Labs",
     "description": "Get precise weather updates, storm alerts, and hourly forecasts worldwide.",
@@ -217,7 +217,7 @@
   },
   {
     "id": 13,
-    "image": "https://i.ibb.co.com/ChFJfPv/app13.webp",
+    "image": "https://i.ibb.co.com/93kDKgqy/demo-app-1.webp",
     "title": "CookCraft",
     "companyName": "HomeChef Studios",
     "description": "Discover new recipes, step-by-step guides, and personalized meal planning.",
@@ -235,7 +235,7 @@
   },
   {
     "id": 14,
-    "image": "https://i.ibb.co.com/k6bFPjN/app14.webp",
+    "image": "https://i.ibb.co.com/mrjsRpDk/demo-app-2.webp",
     "title": "GameZone",
     "companyName": "PlayVerse Studios",
     "description": "Explore trending games, get reviews, and manage your gaming library easily.",
@@ -253,7 +253,7 @@
   },
   {
     "id": 15,
-    "image": "https://i.ibb.co.com/5sBcB3M/app15.webp",
+    "image": "https://i.ibb.co.com/gZpgLcQ7/demo-app-3.webp",
     "title": "HealthSync",
     "companyName": "MedLink Technologies",
     "description": "Track your fitness, sleep, and health reports securely in one place.",
