@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/7QjHgjH/app1.webp",
+    "title": "TaskFlow",
+    "companyName": "FlowTech Labs",
+    "description": "Organize your daily work, track goals, and boost productivity with AI-powered task management.",
+    "size": 42,
+    "reviews": 18450,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 820 },
+      { "name": "2 star", "count": 1150 },
+      { "name": "3 star", "count": 2430 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 8250 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/GtH0R2R/app2.webp",
+    "title": "FitTrack",
+    "companyName": "ActivePulse",
+    "description": "Monitor workouts, calories, and heart rate seamlessly with real-time analytics.",
+    "size": 55,
+    "reviews": 20300,
+    "ratingAvg": 4.4,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 970 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 9330 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/mvtpZgz/app3.webp",
+    "title": "NoteNest",
+    "companyName": "Clarity Works",
+    "description": "A minimal note-taking app that syncs across all your devices instantly.",
+    "size": 28,
+    "reviews": 9700,
+    "ratingAvg": 4.7,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4690 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/6vVb5yV/app4.webp",
+    "title": "ShopSmart",
+    "companyName": "RetailEdge",
+    "description": "Compare prices, track deals, and get cashback offers from your favorite stores.",
+    "size": 60,
+    "reviews": 40210,
+    "ratingAvg": 4.3,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 1900 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 10400 },
+      { "name": "5 star", "count": 20010 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/6r9sVkp/app5.webp",
+    "title": "PhotoTune",
+    "companyName": "PixelForge",
+    "description": "Enhance and edit your photos with AI filters and one-tap retouching tools.",
+    "size": 75,
+    "reviews": 50230,
+    "ratingAvg": 4.5,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 2300 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 26830 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/fYNzHbb/app6.webp",
+    "title": "EduMate",
+    "companyName": "Brainwave Learning",
+    "description": "Interactive courses, quizzes, and progress tracking for students of all levels.",
+    "size": 48,
+    "reviews": 16800,
+    "ratingAvg": 4.8,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 11200 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/sCQcrL6/app7.webp",
+    "title": "SoundSphere",
+    "companyName": "EchoWave Studios",
+    "description": "Stream and discover millions of songs, podcasts, and live radio in one place.",
+    "size": 70,
+    "reviews": 80500,
+    "ratingAvg": 4.2,
+    "downloads": 9200000,
+    "ratings": [
+      { "name": "1 star", "count": 6400 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 12200 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 31900 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/P5pQfTj/app8.webp",
+    "title": "TripMate",
+    "companyName": "Voyager Apps",
+    "description": "Plan trips, book hotels, and explore new destinations with AI travel guides.",
+    "size": 64,
+    "reviews": 28500,
+    "ratingAvg": 4.6,
+    "downloads": 4400000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 8600 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/dfm6Lj6/app9.webp",
+    "title": "ChatBuddy",
+    "companyName": "SocialHive",
+    "description": "Stay connected with friends through chats, stories, and real-time calls.",
+    "size": 52,
+    "reviews": 61000,
+    "ratingAvg": 4.1,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 6800 },
+      { "name": "2 star", "count": 7100 },
+      { "name": "3 star", "count": 9500 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 20600 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/Zcr9GHM/app10.webp",
+    "title": "MindEase",
+    "companyName": "CalmSpace Studio",
+    "description": "Relax with guided meditations, breathing exercises, and sleep stories.",
+    "size": 44,
+    "reviews": 38000,
+    "ratingAvg": 4.9,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 31400 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/f0g3M5v/app11.webp",
+    "title": "FinTrack",
+    "companyName": "MoneyMind Labs",
+    "description": "Manage expenses, track budgets, and visualize spending patterns easily.",
+    "size": 36,
+    "reviews": 15400,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/X5nxR4S/app12.webp",
+    "title": "Weatherly",
+    "companyName": "SkyCast Labs",
+    "description": "Get precise weather updates, storm alerts, and hourly forecasts worldwide.",
+    "size": 39,
+    "reviews": 12700,
+    "ratingAvg": 4.3,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/ChFJfPv/app13.webp",
+    "title": "CookCraft",
+    "companyName": "HomeChef Studios",
+    "description": "Discover new recipes, step-by-step guides, and personalized meal planning.",
+    "size": 62,
+    "reviews": 9600,
+    "ratingAvg": 4.6,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4650 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/k6bFPjN/app14.webp",
+    "title": "GameZone",
+    "companyName": "PlayVerse Studios",
+    "description": "Explore trending games, get reviews, and manage your gaming library easily.",
+    "size": 78,
+    "reviews": 67200,
+    "ratingAvg": 4.2,
+    "downloads": 8300000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 6200 },
+      { "name": "3 star", "count": 9600 },
+      { "name": "4 star", "count": 19000 },
+      { "name": "5 star", "count": 27400 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/5sBcB3M/app15.webp",
+    "title": "HealthSync",
+    "companyName": "MedLink Technologies",
+    "description": "Track your fitness, sleep, and health reports securely in one place.",
+    "size": 51,
+    "reviews": 25800,
+    "ratingAvg": 4.7,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 14200 }
+    ]
+  }
+]
