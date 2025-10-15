@@ -17,7 +17,7 @@ const Installation = () => {
 
   if (installedApps.length === 0) {
     return (
-      <div className="text-center mt-20">
+      <div className="text-center my-20">
         <h2 className="text-3xl font-bold text-[#392f5a] mb-5">
           No Installed Apps Yet
         </h2>
