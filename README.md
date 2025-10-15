@@ -1,16 +1,16 @@
-# React + Vite
+App Name:Hero.IO Apps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Description=>
+Hero.IO Apps Dashboard is a modern React web application that showcases a collection of productive apps. Users can:
+1)Browse trending and all available apps.
+2)View app details including ratings, downloads, and description.
+3)Install apps locally and manage installed apps (uninstall if needed).
+4)Sort and search apps by downloads or name.
+5)Visualize ratings using interactive charts.
+6)This project demonstrates dynamic routing, localStorage usage, state management, and interactive UI with Tailwind CSS and DaisyUI components.
+7)Technologies
+8)React.js – Frontend library for building user interfaces
+9)React Router v6 – For dynamic routing and nested routes
+10)Tailwind CSS – Utility-first CSS framework for styling
+11)Recharts – For rendering interactive rating charts
+12)LocalStorage – To store installed apps and persist sort/search preferences
